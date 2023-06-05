@@ -10,6 +10,5 @@ public class Main {
 
         VehicleDesign offRoadVehicle = new OffroadVehicle();
         offRoadVehicle.drive();
-        //
     }
 }
