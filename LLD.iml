@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2. Strategy Design Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3. Observer Design Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Decorator Design Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Factory Design Pattern" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/4. Decorator Design Pattern/Pizza Shop" />
     </content>
     <orderEntry type="inheritedJdk" />
