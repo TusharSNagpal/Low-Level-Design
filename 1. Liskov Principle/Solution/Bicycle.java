@@ -1,6 +1,6 @@
 package Solution;
 
-//public class Bicycle extends Vehicle {
+//public class Bicycle extends Vehicles.Vehicle {
 //    @Override
 //    public String engineGearBox(){
 //        return null;

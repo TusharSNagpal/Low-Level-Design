@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/3. Observer Design Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Decorator Design Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5. Factory Design Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. Abstract Factory Design Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Snake and Ladder" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/4. Decorator Design Pattern/Pizza Shop" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -32,5 +32,5 @@ public class Client {
             System.out.println(vehicleWithGear.engineGearBox()); //--> This method is present in vehicleWithGear so no error
         }
     }
-    //This is how we seperated generic methods in parent class(Vehicle) and non-generic methods in sub classes(EngineGearbox).
+    //This is how we seperated generic methods in parent class(Vehicles.Vehicle) and non-generic methods in sub classes(EngineGearbox).
 }
